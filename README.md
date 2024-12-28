@@ -2,7 +2,7 @@
 ## Images Object Detection
 => That project use YoloV3 because in my opinion it's way more stable than others.
 <br><br>
-First of all need to download somethings which is require for that project. I already wrote inside of the program.
+First of all need to download somethings which is require for that project. I already wrote inside of the program so you can diractly use program.
 ```bash
 !pip install opencv-python-headless numpy
 '!wget https://pjreddie.com/media/files/yolov3.weights -O yolov3.weights'
@@ -19,7 +19,7 @@ as
 
 ## Videos Object Detection
 => That project use YoloV8 because thats the latest version of the YOLO also giving best performance so it's better to process videos with YoloV8.
-  
+<br><br>
 First of all need to download ultralystics which is require for that project and i already wrote inside of the program so you can diractly use program.
 ```bash
 !pip install ultralytics
