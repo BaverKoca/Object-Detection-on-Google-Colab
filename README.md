@@ -1,8 +1,4 @@
 # Object-on-Detection-Google-Colab
-<div align="center">
-  <a href="https://www.ultralytics.com/hub">
-    <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-ultralytics-hub.png" width="10%" alt="Ultralytics HUB logo"></a>
-</div>
 ## Images Object Detection
 => That project use YoloV3 because in my opinion it's way more stable than others.
 <br>
