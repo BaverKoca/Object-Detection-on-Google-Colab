@@ -6,9 +6,9 @@
 First of all need to download somethings which is require for that project.
 
 That one is fo
-'!pip install opencv-python-headless numpy'
+' !pip install opencv-python-headless numpy '
 
-'!wget https://pjreddie.com/media/files/yolov3.weights -O yolov3.weights'
+' !wget https://pjreddie.com/media/files/yolov3.weights -O yolov3.weights '
 
 '!wget https://github.com/pjreddie/darknet/raw/master/cfg/yolov3.cfg -O yolov3.cfg'
 
