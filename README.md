@@ -1,7 +1,7 @@
 # Object-on-Detection-Google-Colab
 ## Images Object Detection
 => That project use YoloV3 because in my opinion it's way more stable than others.
-<br>
+<br><br>
 First of all need to download somethings which is require for that project. I already wrote inside of the program.
 ```bash
 !pip install opencv-python-headless numpy
