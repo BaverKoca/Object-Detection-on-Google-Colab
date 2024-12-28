@@ -1,8 +1,8 @@
 # Object-on-Detection-Google-Colab
 
 ## Images Object Detection
-!That project use YoloV3 because in my opinion it's way more stable than others.
-
+=> That project use YoloV3 because in my opinion it's way more stable than others.
+  
 First of all need to download somethings which is require for that project. I already wrote inside of the program.
 ```bash
 !pip install opencv-python-headless numpy
@@ -19,9 +19,9 @@ as
 
 
 ## Videos Object Detection
-!That project use YoloV8 because thats the latest version of the YOLO also giving best performance so it's better to process videos with YoloV8.
-
-First of all need to download ultralystics which is require for that project. Because I already wrote inside of the program.
+=> That project use YoloV8 because thats the latest version of the YOLO also giving best performance so it's better to process videos with YoloV8.
+  
+First of all need to download ultralystics which is require for that project and i already wrote inside of the program so you can diractly use program.
 ```bash
 !pip install ultralytics
 ```
