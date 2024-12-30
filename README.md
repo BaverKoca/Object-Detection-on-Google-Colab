@@ -1,4 +1,4 @@
-# Object-on-Detection-Google-Colab
+# Object-Detection-on-Google-Colab
 ## Images Object Detection
 => That project use YoloV3 because in my opinion it's way more stable than others.
 <br><br>
